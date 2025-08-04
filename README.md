@@ -72,7 +72,7 @@ This solution simulates an AWS environment and detects suspicious behavior by:
 
 ---
 
-##  Sample Output
+###  Sample Output
 
 ```csv
 Time,EventName,Username,SourceIP,GeoLocation,ActionTaken
