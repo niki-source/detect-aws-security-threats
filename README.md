@@ -42,11 +42,6 @@ This solution simulates an AWS environment and detects suspicious behavior by:
 - **Geolocating IPs** to detect API calls from suspicious countries
 - **Generating alerts** (via console log, CSV, or SNS)
 
----
-
-##  Architecture
-
-![architecture_diagram.png](architecture_diagram.png)
 
 ---
 
@@ -120,7 +115,6 @@ python cloudtrail_alerts.py
 ## 📂 Repo Structure
 cloud-security-aws-alerting/
 ├── README.md
-├── architecture_diagram.png
 ├── cloudtrail_alerts.py
 ├── flagged_events.csv
 ├── iam_policies/
