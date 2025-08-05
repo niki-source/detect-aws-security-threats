@@ -1,1 +1,5 @@
-
+Time,EventName,Username,SourceIP,GeoLocation,ActionTaken
+2025-08-04 10:22,AttachRolePolicy,dev-user,197.64.33.17,Nigeria,ALERT_SENT
+2025-08-04 10:24,DeleteBucket,test-admin,104.91.22.2,United States,ALERT_SENT
+2025-08-04 11:15,ConsoleLogin,root,203.0.113.10,Russia,ALERT_SENT
+2025-08-04 12:05,PutBucketPolicy,vulnerable-user,198.51.100.5,Unknown,ALERT_SENT
